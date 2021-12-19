@@ -505,6 +505,7 @@
 }
 .tl-timeline .tl-text ul li {
   margin-bottom: 5px;
+  color:#fff
 }
 .tl-timeline .tl-button-calltoaction {
   cursor: pointer;
@@ -3126,3 +3127,6 @@
 
 
 /*# sourceMappingURL=timeline.css.map*/
+body {
+  margin: 0 0 0 0;
+}
