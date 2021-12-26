@@ -368,7 +368,7 @@
   font-style: italic;
 }
 .tl-timeline a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #c34528;
 }
 .tl-timeline a:hover {
